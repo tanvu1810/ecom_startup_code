@@ -1,0 +1,39 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+generated_plugin_registrant.dart
+
+# IntelliJ/Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Others
+*.log
+*.lock
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Coverage
+coverage/
+
+# Env files (nếu bạn dùng để chứa thông tin nhạy cảm)
+.env
+.env.*
